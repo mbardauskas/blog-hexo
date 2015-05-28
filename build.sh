@@ -1,3 +1,3 @@
 #!/bin/bash
 npm install
-hexo generate
+node node_modules/hexo/bin/hexo generate
