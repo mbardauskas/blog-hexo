@@ -5,7 +5,6 @@ tags:
 id: 95
 categories:
   - Development
-  - self improvement
 date: 2014-11-04 22:25:40
 ---
 
