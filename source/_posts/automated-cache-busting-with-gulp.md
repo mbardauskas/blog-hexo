@@ -9,6 +9,8 @@ You probably want most of your image and other resources to be cached, so the us
 
 <a href="https://css-tricks.com/strategies-for-cache-busting-css/">There are ways to bust cache</a>. Some use <a href="http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/">filename revving</a>, some rely on query string for filenames. Some leave it to their CMS and others don't think about it at all. I'll cover only filename revving since it seems to be most effective.
 
+<!--more-->
+
 #### Configuring web server
 
 The easy part is configuring your apache web server through `.htaccess`:
