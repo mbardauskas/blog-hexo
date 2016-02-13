@@ -1,0 +1,4 @@
+[submodule "themes/mk1"]
+	path = themes/mk1
+	url = git@github.com:mbardauskas/hexo-theme-mk1.git
+	branch = master-personal
