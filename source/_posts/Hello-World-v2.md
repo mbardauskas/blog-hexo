@@ -4,7 +4,6 @@ tags:
   - hexo
 categories:
   - Development
-date: 2015-05-29 07:45:10
 ---
 
 It's been a while since my last post.
